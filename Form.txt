@@ -1,0 +1,34 @@
+<!Doctype.html>
+<html>
+<title>fill the forms</title>
+<p style="font-size:150px;>Login</p>
+<style>
+body {
+  background-image: url('earth.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<font color="white">
+<a href ="Form.html">Form&nbsp;</a>
+<a href ="Home.html">Home&nbsp;</a>
+<a href ="About.html">About&nbsp;</a>
+<hr>
+<form action="Home.html" method="GET">
+<center>
+
+Age:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"name="age"id="age"><br /><br />
+Gander:&nbsp;&nbsp;<select name="Gander"id="Gander"><br /><br />
+<center>
+<option>Female</option><br /><br />
+<option>Male</option>
+Which of the following skills do you possess? Select all that apply.<br>
+<select skills="dropdown"><br /><br />
+<input type="checkbox" name="chkSkills" value="Amharic">AMHARIC <br>
+<input type="checkbox" name="chkSkills" value="English">ENGLISH<br>
+<input type="checkbox" name="chkSkills" value="Mathes">MATHEMATHCS<br>
+<input type="checkbox" name="chkSkills" value="Science">SCIENCE<br>
+<input type="checkbox" name="chkSkills" value="Viual art">Visual art<br>
+<input type="submit" value="Login"id="submit" /><br/>
+<input type="reset"name="clear"value="Clear">

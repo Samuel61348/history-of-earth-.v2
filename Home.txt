@@ -1,0 +1,59 @@
+<!Doctype.html>
+<html>
+<title> History of Earth </title>
+<link rel="stylesheet" href="Menu.css">
+<nav>
+     <a href="Home.html"> Home </a> &nbsp;
+     <a href="Form.html"> Form </a> &nbsp;
+     <a href="About.html"> About </a> &nbsp;
+</nav>
+<style>
+body {
+  background-image: url('space.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<font color="white">
+<center>
+    <img src="earth.gif" alt="earth" width="500" height="500">
+</a>
+<center>
+<p style="font-size:150px;">History of Earth</p>
+<p style="font-size:80px;">Evolution of Earth</p><br>
+<center>
+<p>First 4.5 billion years ago. Right after is born, EARTH was a hell of lava. Pretty early in it is history, Earth collided with mars sized object called THEIA. Which formed the moon?
+This happened in the first eon of the earth called Hadean
+Named after the Greek god of the Underworld.
+In this time the atmosphere was mostly CO2 and the ground was molten lava and rocks
+After that, 500 million years have passed and the earth entered an eon called Eoarchean. In this eon the lava was cooling and scientist think life entered in this eon.
+Water start raining forming the ocean we know now 
+For a few million years
+Around 3.6 billion years ago the Paleorchean started.
+This was the time where gases like CO2, CH4 and H2 O was used for the first time by microorganism. The paleorchean lasted from 3.6 billion - 3.2 billion years.
+In this time the day are longer and large continent are underground in3.236 billion years ago.
+3.2billion years ago in the Mesorchean the era of continents began tectonic plates begin to crush into each
+Other, puling and pushing .the Ocean are 40 Co and micro
+Organisms start to expand everywhere. There is no plants for the greenhouse effect and the atmosphere is very hot and no oxygen.
+2.8 billion years ago in the Neoarchean began.(2.8billion-2.5 billion years ago)some prokaryotes like bacteria began to colonize the planet.
+2.5 billion years ago in the siderian a massive event happened it was called the great oxidation event. Cyanobacteria burp oxygen creating the oxygen layer in large quantities
+Ice age happened for the first in the Rhyacian about 2.3 billion - 2.05 billion years ago for millions of years.in 2.2 billion years ago the ice started to melt .
+A large asteroid hit earth around 2.05 billion years ago in the orosirian.at that time big mountains are named UR, Nena, Atlantica.
+1.8billion years ago in the statherian the super continent
+Columbia was born. The Asteroid that hit the earth made A self-sustaining nuclear reactor. 1.6billion years ago around the edge of calimiant   +or- a few hundred million years ago the first eukaryotic cells(cells with a nucleus) merge from two other cell. Sometime in the ectasian 1.4 billion years ago ,earth s inner core was forming 
+1.2 billion years ago in the tonian begins, another age where earth is rocks, puddles and oceans.
+720million years ago earth in the cyogenian eon freezes over again
+635million years ago the super continent gondwana forms and multi cellular organisms start to grow.
+539million years ago Cambrian explosion began plants started to explore the land and a massive extinction will happen.
+485million years ago to 444million years ago ordovican started.
+444millon years ago to 419millon years ago sitarian began.
+419million years -359million years the Devonian began. Trees started to expand on the land and water animals start to adopt the land
+359million years ago in the carboniterours forests and lush marsh land are at their peak.
+Some 299million years ago in the Permian ,pangea the last super continent has formed and after a few ten of million years ,the largest mass extension in history happened killing most of the living things.
+252million years ago the trissic begins 201 -145million years are the true age of the reptiles. 145-66 million years is the creoceous.
+66-26million years was the time the large asteroid hit earth and led to the extension of all dinosaurs in the paleogen
+26-23million years is neogenes </p><br>
+<video controls loop src="4.5 Billion Years in 1 Hour.mp4" width="700">
+</body>
+</html>
